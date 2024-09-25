@@ -1,0 +1,57 @@
+#Image-cont{
+background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+margin: auto;
+height: 65vh;
+width: 20vw;
+margin-top: 200px;
+background-size: 100% 100%;
+}
+#text-cont{
+    height: 24vh;
+    width: 20vw;
+    background-color: white;
+    /* border-top: 2px solid red; */
+    border-radius: 15px;
+     margin: auto; 
+     top: 65%; 
+      position: relative; 
+}
+#button{
+    display: flex;
+    /* justify-content: space-evenly; */
+    align-items: center;
+    padding-left: 20px;
+}
+#button1{
+    height:35px;
+    width: 30%;
+    margin-right: 20px;
+    background-color: white;
+    color: rgb(77, 6, 143) ;
+    border-radius: 5px;
+    border: 2px solid  rgb(203, 194, 212);
+}
+#button2{
+    height:35px;
+    width: 30%;
+    margin-right: px;
+    background-color:rgb(77, 6, 143);
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+h2{
+    
+   padding-top: 20px;
+   padding-left: 20px;
+font-family:;
+font-weight: 700;
+font-size: xx-large;
+color: rgb(77, 6, 143);
+}
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+    padding-left: 20px;
+    padding-right: 30px;
+}
